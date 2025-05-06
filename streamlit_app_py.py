@@ -7,10 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1SYTZOPRVy_dVLFfyjSCxv-JlNT8in7wG
 """
 
-from google.colab import files
-uploaded = files.upload()
-
-code = """
+# streamlit_app.py
 import streamlit as st
 import joblib
 import pandas as pd
@@ -35,7 +32,3 @@ if st.button("Predict Delivery Time"):
     })
     delivery_time = model.predict(input_data)[0]
     st.success(f"✅ Predicted Delivery Time: {delivery_time:.2f} days")
-"""
-
-with open("app.py", "w") as f:
-    f.write(code)
