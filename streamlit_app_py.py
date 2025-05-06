@@ -39,7 +39,3 @@ if st.button("Predict Delivery Time"):
 
 with open("app.py", "w") as f:
     f.write(code)
-
-!jupyter nbconvert --to script streamlit_app_py.ipynb
-
-!jupyter nbconvert --to script streamlit_app_py.ipynb
