@@ -13,7 +13,7 @@ import joblib
 import pandas as pd
 
 # Load the trained model
-model = joblib.load('delivery_time_model.pkl')
+model = joblib.load('delivery_time_model(1).pkl')
 
 # Title
 st.title("🚚 Timelytics - Delivery Time Prediction")
