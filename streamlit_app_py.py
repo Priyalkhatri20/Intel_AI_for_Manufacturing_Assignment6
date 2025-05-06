@@ -7,8 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1SYTZOPRVy_dVLFfyjSCxv-JlNT8in7wG
 """
 
-!pip install streamlit pyngrok joblib pandas
-
 from google.colab import files
 uploaded = files.upload()
 
