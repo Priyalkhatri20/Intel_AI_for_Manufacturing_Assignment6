@@ -1,0 +1,1001 @@
+product_category,customer_location,shipping_method
+Home Decor,Phoenix,Express
+Clothing,Los Angeles,Same-Day
+Clothing,Phoenix,Same-Day
+Books,Phoenix,Same-Day
+Books,Houston,Same-Day
+Home Decor,Los Angeles,Standard
+Books,Los Angeles,Standard
+Books,Phoenix,Express
+Clothing,Phoenix,Same-Day
+Electronics,San Antonio,Express
+Home Decor,San Diego,Same-Day
+Clothing,San Diego,Standard
+Home Decor,Houston,Same-Day
+Home Decor,Los Angeles,Same-Day
+Clothing,New York,Same-Day
+Books,New York,Express
+Electronics,San Diego,Standard
+Home Decor,Philadelphia,Express
+Home Decor,Los Angeles,Express
+Books,San Diego,Express
+Clothing,Philadelphia,Express
+Clothing,Philadelphia,Express
+Electronics,San Diego,Express
+Books,San Antonio,Express
+Books,New York,Standard
+Clothing,Philadelphia,Standard
+Electronics,San Diego,Standard
+Books,San Antonio,Standard
+Clothing,Philadelphia,Standard
+Home Decor,Los Angeles,Express
+Books,San Diego,Standard
+Electronics,New York,Standard
+Home Decor,Philadelphia,Same-Day
+Books,Phoenix,Standard
+Electronics,San Antonio,Standard
+Books,San Antonio,Same-Day
+Clothing,Houston,Same-Day
+Home Decor,Phoenix,Standard
+Home Decor,San Diego,Express
+Books,New York,Express
+Clothing,New York,Same-Day
+Home Decor,San Antonio,Same-Day
+Books,Phoenix,Standard
+Home Decor,Philadelphia,Express
+Books,San Diego,Standard
+Books,Phoenix,Express
+Home Decor,Houston,Same-Day
+Clothing,Los Angeles,Standard
+Books,New York,Same-Day
+Electronics,Houston,Same-Day
+Home Decor,Chicago,Standard
+Electronics,Houston,Express
+Clothing,Houston,Express
+Clothing,Los Angeles,Standard
+Home Decor,San Antonio,Standard
+Home Decor,San Antonio,Standard
+Books,Chicago,Standard
+Electronics,Phoenix,Same-Day
+Books,San Diego,Same-Day
+Clothing,San Diego,Standard
+Electronics,Philadelphia,Standard
+Books,Chicago,Express
+Books,New York,Standard
+Clothing,San Antonio,Standard
+Home Decor,Los Angeles,Express
+Home Decor,Los Angeles,Express
+Books,New York,Same-Day
+Clothing,Philadelphia,Same-Day
+Home Decor,Houston,Standard
+Electronics,San Antonio,Standard
+Home Decor,New York,Express
+Home Decor,San Diego,Standard
+Home Decor,New York,Standard
+Books,Houston,Express
+Books,San Antonio,Express
+Home Decor,New York,Standard
+Home Decor,San Antonio,Express
+Electronics,Phoenix,Same-Day
+Clothing,San Diego,Express
+Home Decor,Chicago,Same-Day
+Electronics,Houston,Same-Day
+Electronics,Houston,Standard
+Home Decor,San Antonio,Standard
+Clothing,San Antonio,Express
+Electronics,San Diego,Express
+Books,New York,Same-Day
+Home Decor,Houston,Standard
+Books,San Diego,Same-Day
+Home Decor,Los Angeles,Standard
+Electronics,Los Angeles,Standard
+Electronics,Chicago,Express
+Clothing,New York,Standard
+Home Decor,New York,Standard
+Books,New York,Express
+Home Decor,Houston,Standard
+Clothing,New York,Standard
+Home Decor,San Diego,Same-Day
+Books,Phoenix,Standard
+Clothing,Phoenix,Standard
+Electronics,Los Angeles,Same-Day
+Clothing,Los Angeles,Standard
+Clothing,Houston,Same-Day
+Home Decor,Los Angeles,Same-Day
+Home Decor,Houston,Express
+Electronics,Philadelphia,Same-Day
+Home Decor,San Diego,Standard
+Home Decor,Chicago,Express
+Books,Los Angeles,Standard
+Books,San Antonio,Standard
+Electronics,Houston,Standard
+Books,Phoenix,Same-Day
+Clothing,San Antonio,Standard
+Clothing,San Diego,Standard
+Electronics,San Antonio,Express
+Books,Houston,Standard
+Clothing,Houston,Same-Day
+Clothing,Los Angeles,Express
+Clothing,Philadelphia,Standard
+Books,San Antonio,Same-Day
+Clothing,Phoenix,Same-Day
+Books,San Diego,Standard
+Books,New York,Standard
+Books,Philadelphia,Same-Day
+Electronics,Philadelphia,Standard
+Books,Houston,Standard
+Electronics,Phoenix,Express
+Clothing,New York,Same-Day
+Home Decor,Houston,Same-Day
+Electronics,Los Angeles,Express
+Home Decor,San Diego,Standard
+Home Decor,Houston,Same-Day
+Books,Houston,Standard
+Electronics,New York,Express
+Clothing,Los Angeles,Standard
+Clothing,Los Angeles,Same-Day
+Electronics,Los Angeles,Same-Day
+Electronics,Phoenix,Same-Day
+Electronics,Chicago,Same-Day
+Clothing,Chicago,Standard
+Clothing,San Diego,Standard
+Books,San Diego,Express
+Books,Chicago,Same-Day
+Clothing,Phoenix,Express
+Books,San Antonio,Express
+Clothing,Phoenix,Express
+Clothing,San Antonio,Express
+Electronics,San Antonio,Express
+Electronics,New York,Standard
+Home Decor,Los Angeles,Express
+Books,Philadelphia,Express
+Electronics,San Antonio,Express
+Books,Los Angeles,Standard
+Books,Phoenix,Same-Day
+Books,San Diego,Same-Day
+Books,Los Angeles,Express
+Books,Los Angeles,Same-Day
+Clothing,New York,Standard
+Home Decor,Los Angeles,Express
+Books,San Diego,Standard
+Clothing,Los Angeles,Express
+Electronics,Chicago,Same-Day
+Electronics,San Diego,Express
+Electronics,Philadelphia,Express
+Home Decor,Philadelphia,Express
+Electronics,Phoenix,Same-Day
+Electronics,New York,Express
+Clothing,San Diego,Same-Day
+Books,Phoenix,Express
+Books,Phoenix,Standard
+Books,Los Angeles,Standard
+Home Decor,Houston,Standard
+Books,Phoenix,Standard
+Books,San Diego,Standard
+Books,Philadelphia,Standard
+Electronics,Chicago,Express
+Home Decor,New York,Same-Day
+Books,Los Angeles,Standard
+Clothing,New York,Standard
+Clothing,Houston,Same-Day
+Clothing,Philadelphia,Express
+Home Decor,New York,Express
+Electronics,Chicago,Same-Day
+Books,San Antonio,Express
+Clothing,Los Angeles,Express
+Electronics,San Diego,Standard
+Home Decor,San Antonio,Express
+Clothing,Philadelphia,Standard
+Clothing,Chicago,Express
+Books,Phoenix,Same-Day
+Clothing,Philadelphia,Express
+Electronics,Los Angeles,Standard
+Clothing,San Diego,Standard
+Clothing,San Antonio,Same-Day
+Electronics,Chicago,Express
+Books,San Diego,Express
+Books,Houston,Express
+Clothing,Houston,Standard
+Books,Phoenix,Same-Day
+Home Decor,Houston,Express
+Electronics,Phoenix,Same-Day
+Clothing,San Antonio,Express
+Home Decor,Houston,Same-Day
+Electronics,San Antonio,Standard
+Clothing,Houston,Same-Day
+Books,Chicago,Standard
+Books,Chicago,Same-Day
+Home Decor,Los Angeles,Express
+Clothing,San Antonio,Express
+Electronics,Philadelphia,Standard
+Clothing,San Diego,Same-Day
+Clothing,Philadelphia,Standard
+Clothing,New York,Express
+Home Decor,San Diego,Same-Day
+Home Decor,Philadelphia,Same-Day
+Electronics,San Antonio,Standard
+Home Decor,Houston,Express
+Electronics,Los Angeles,Standard
+Home Decor,San Antonio,Express
+Clothing,Chicago,Express
+Electronics,Los Angeles,Standard
+Clothing,Philadelphia,Same-Day
+Electronics,Los Angeles,Express
+Electronics,Chicago,Express
+Clothing,Los Angeles,Standard
+Clothing,San Diego,Same-Day
+Books,Philadelphia,Standard
+Electronics,Philadelphia,Express
+Home Decor,San Diego,Standard
+Books,Philadelphia,Express
+Home Decor,San Antonio,Standard
+Home Decor,San Diego,Standard
+Books,Phoenix,Express
+Electronics,New York,Standard
+Clothing,New York,Same-Day
+Clothing,Philadelphia,Same-Day
+Clothing,Houston,Express
+Home Decor,New York,Same-Day
+Books,Chicago,Standard
+Home Decor,New York,Same-Day
+Electronics,New York,Express
+Electronics,Phoenix,Standard
+Books,Los Angeles,Standard
+Home Decor,Philadelphia,Express
+Electronics,San Antonio,Same-Day
+Electronics,Chicago,Same-Day
+Clothing,Chicago,Express
+Home Decor,Los Angeles,Express
+Electronics,Houston,Same-Day
+Home Decor,Los Angeles,Same-Day
+Books,San Antonio,Same-Day
+Home Decor,New York,Same-Day
+Clothing,Philadelphia,Same-Day
+Books,Los Angeles,Standard
+Home Decor,New York,Same-Day
+Clothing,Phoenix,Standard
+Home Decor,San Antonio,Standard
+Electronics,San Diego,Express
+Clothing,Chicago,Express
+Home Decor,New York,Standard
+Books,San Antonio,Express
+Electronics,Philadelphia,Standard
+Clothing,Philadelphia,Standard
+Books,Los Angeles,Standard
+Electronics,San Antonio,Express
+Books,Los Angeles,Same-Day
+Clothing,San Antonio,Same-Day
+Home Decor,San Antonio,Same-Day
+Books,Philadelphia,Express
+Clothing,New York,Express
+Clothing,New York,Same-Day
+Electronics,Houston,Same-Day
+Home Decor,Philadelphia,Express
+Home Decor,San Diego,Standard
+Home Decor,Phoenix,Standard
+Clothing,Houston,Standard
+Books,Houston,Standard
+Home Decor,Chicago,Same-Day
+Books,Chicago,Standard
+Home Decor,New York,Standard
+Electronics,San Antonio,Express
+Books,Philadelphia,Same-Day
+Electronics,Philadelphia,Same-Day
+Clothing,San Diego,Standard
+Home Decor,Los Angeles,Standard
+Books,Los Angeles,Standard
+Electronics,Philadelphia,Standard
+Clothing,Philadelphia,Express
+Books,Phoenix,Standard
+Books,Houston,Express
+Home Decor,New York,Express
+Books,New York,Same-Day
+Books,Philadelphia,Same-Day
+Electronics,Houston,Standard
+Home Decor,Los Angeles,Standard
+Home Decor,Philadelphia,Express
+Electronics,New York,Express
+Books,Los Angeles,Express
+Home Decor,Philadelphia,Same-Day
+Books,Los Angeles,Express
+Books,New York,Express
+Home Decor,Phoenix,Express
+Electronics,Houston,Standard
+Clothing,San Diego,Express
+Books,Houston,Same-Day
+Electronics,Philadelphia,Standard
+Books,Los Angeles,Express
+Electronics,New York,Standard
+Electronics,Philadelphia,Same-Day
+Electronics,New York,Standard
+Books,Houston,Standard
+Home Decor,Phoenix,Express
+Home Decor,New York,Same-Day
+Electronics,San Diego,Standard
+Books,New York,Same-Day
+Clothing,Philadelphia,Express
+Home Decor,Philadelphia,Standard
+Home Decor,Philadelphia,Express
+Electronics,Phoenix,Same-Day
+Clothing,Philadelphia,Express
+Books,Phoenix,Same-Day
+Electronics,Chicago,Express
+Clothing,New York,Standard
+Electronics,San Diego,Same-Day
+Electronics,Houston,Same-Day
+Books,Chicago,Standard
+Books,San Antonio,Standard
+Home Decor,Chicago,Express
+Electronics,Philadelphia,Same-Day
+Home Decor,Philadelphia,Same-Day
+Clothing,New York,Same-Day
+Electronics,Phoenix,Same-Day
+Books,San Antonio,Same-Day
+Electronics,Chicago,Same-Day
+Clothing,Houston,Same-Day
+Clothing,Phoenix,Express
+Clothing,Los Angeles,Express
+Electronics,Chicago,Same-Day
+Clothing,Los Angeles,Standard
+Clothing,Houston,Standard
+Home Decor,New York,Standard
+Books,San Antonio,Same-Day
+Books,New York,Express
+Books,Chicago,Standard
+Home Decor,Phoenix,Express
+Electronics,Los Angeles,Same-Day
+Books,New York,Express
+Electronics,San Antonio,Same-Day
+Electronics,New York,Standard
+Electronics,New York,Standard
+Electronics,San Antonio,Standard
+Books,Philadelphia,Standard
+Books,Los Angeles,Same-Day
+Clothing,San Antonio,Express
+Home Decor,San Diego,Express
+Clothing,Chicago,Standard
+Electronics,Phoenix,Same-Day
+Clothing,Chicago,Same-Day
+Books,Philadelphia,Standard
+Clothing,Chicago,Same-Day
+Home Decor,New York,Same-Day
+Home Decor,Philadelphia,Same-Day
+Books,Los Angeles,Express
+Clothing,Phoenix,Same-Day
+Home Decor,Phoenix,Express
+Home Decor,San Diego,Same-Day
+Books,Philadelphia,Standard
+Clothing,Philadelphia,Express
+Electronics,San Diego,Standard
+Home Decor,San Diego,Express
+Home Decor,San Antonio,Standard
+Home Decor,Chicago,Same-Day
+Home Decor,Houston,Standard
+Clothing,Chicago,Same-Day
+Home Decor,San Diego,Standard
+Books,San Diego,Standard
+Home Decor,San Antonio,Express
+Home Decor,San Diego,Standard
+Home Decor,New York,Same-Day
+Books,Houston,Same-Day
+Books,Chicago,Same-Day
+Books,San Diego,Same-Day
+Electronics,New York,Standard
+Electronics,Phoenix,Standard
+Home Decor,Houston,Same-Day
+Books,San Antonio,Standard
+Books,San Diego,Express
+Home Decor,Phoenix,Same-Day
+Electronics,Phoenix,Same-Day
+Books,Philadelphia,Standard
+Clothing,Philadelphia,Same-Day
+Home Decor,New York,Express
+Home Decor,Los Angeles,Same-Day
+Books,Los Angeles,Same-Day
+Books,Los Angeles,Express
+Electronics,San Antonio,Express
+Books,New York,Same-Day
+Home Decor,San Diego,Same-Day
+Electronics,Phoenix,Express
+Home Decor,New York,Standard
+Electronics,Philadelphia,Express
+Electronics,Philadelphia,Standard
+Clothing,New York,Same-Day
+Electronics,New York,Standard
+Home Decor,Los Angeles,Standard
+Home Decor,San Antonio,Standard
+Clothing,San Diego,Express
+Clothing,Houston,Standard
+Clothing,San Antonio,Same-Day
+Home Decor,Los Angeles,Same-Day
+Electronics,San Antonio,Express
+Books,Houston,Same-Day
+Books,Chicago,Same-Day
+Books,San Antonio,Express
+Electronics,Phoenix,Standard
+Books,San Diego,Same-Day
+Books,Philadelphia,Express
+Electronics,San Diego,Same-Day
+Electronics,Phoenix,Standard
+Home Decor,Phoenix,Express
+Clothing,Philadelphia,Same-Day
+Electronics,Chicago,Express
+Electronics,Philadelphia,Standard
+Electronics,New York,Express
+Electronics,Phoenix,Standard
+Home Decor,Philadelphia,Express
+Electronics,New York,Express
+Clothing,Phoenix,Express
+Books,Houston,Same-Day
+Electronics,Philadelphia,Standard
+Books,Houston,Standard
+Home Decor,Phoenix,Standard
+Electronics,Phoenix,Same-Day
+Electronics,Phoenix,Express
+Books,San Antonio,Standard
+Clothing,New York,Standard
+Clothing,Los Angeles,Standard
+Clothing,New York,Same-Day
+Books,San Diego,Standard
+Books,Chicago,Express
+Home Decor,Chicago,Same-Day
+Electronics,San Antonio,Standard
+Home Decor,San Antonio,Same-Day
+Books,San Antonio,Express
+Electronics,New York,Same-Day
+Electronics,Houston,Standard
+Electronics,Los Angeles,Same-Day
+Home Decor,San Diego,Express
+Electronics,Chicago,Express
+Home Decor,Philadelphia,Standard
+Electronics,Philadelphia,Same-Day
+Electronics,San Diego,Express
+Clothing,Phoenix,Same-Day
+Clothing,Chicago,Standard
+Electronics,San Antonio,Same-Day
+Clothing,San Antonio,Same-Day
+Books,Phoenix,Same-Day
+Electronics,Phoenix,Same-Day
+Home Decor,Houston,Express
+Books,San Diego,Express
+Electronics,Phoenix,Standard
+Electronics,Chicago,Same-Day
+Books,Phoenix,Express
+Home Decor,San Antonio,Standard
+Books,Los Angeles,Standard
+Electronics,Philadelphia,Standard
+Home Decor,San Diego,Same-Day
+Clothing,Los Angeles,Express
+Electronics,Chicago,Standard
+Home Decor,San Antonio,Same-Day
+Clothing,Houston,Same-Day
+Books,San Antonio,Same-Day
+Electronics,San Diego,Same-Day
+Clothing,Houston,Standard
+Home Decor,Los Angeles,Standard
+Books,Chicago,Express
+Books,San Antonio,Standard
+Books,Chicago,Same-Day
+Books,Los Angeles,Express
+Books,Phoenix,Express
+Home Decor,Chicago,Express
+Home Decor,Philadelphia,Express
+Home Decor,San Antonio,Standard
+Clothing,Chicago,Express
+Electronics,Chicago,Express
+Home Decor,Philadelphia,Same-Day
+Clothing,Houston,Same-Day
+Clothing,Chicago,Same-Day
+Clothing,Philadelphia,Express
+Electronics,Phoenix,Express
+Electronics,New York,Standard
+Electronics,San Diego,Standard
+Electronics,Los Angeles,Standard
+Clothing,Phoenix,Same-Day
+Clothing,Phoenix,Standard
+Home Decor,Phoenix,Same-Day
+Home Decor,Los Angeles,Standard
+Home Decor,San Diego,Same-Day
+Electronics,Los Angeles,Express
+Clothing,Houston,Express
+Home Decor,New York,Express
+Electronics,San Antonio,Same-Day
+Clothing,Philadelphia,Same-Day
+Electronics,Chicago,Same-Day
+Clothing,Chicago,Same-Day
+Clothing,San Antonio,Standard
+Books,Houston,Standard
+Home Decor,San Antonio,Standard
+Home Decor,New York,Standard
+Books,Phoenix,Same-Day
+Clothing,Los Angeles,Same-Day
+Books,Philadelphia,Express
+Books,Houston,Express
+Clothing,Los Angeles,Express
+Books,New York,Standard
+Books,Phoenix,Express
+Home Decor,Chicago,Same-Day
+Clothing,Houston,Standard
+Books,San Antonio,Standard
+Electronics,Houston,Same-Day
+Books,Los Angeles,Express
+Books,Philadelphia,Same-Day
+Electronics,Phoenix,Express
+Clothing,San Antonio,Standard
+Home Decor,San Antonio,Express
+Electronics,San Antonio,Express
+Home Decor,Los Angeles,Express
+Books,San Diego,Standard
+Books,Philadelphia,Express
+Home Decor,New York,Express
+Books,Houston,Standard
+Home Decor,Los Angeles,Express
+Electronics,New York,Same-Day
+Home Decor,Houston,Express
+Electronics,San Diego,Express
+Electronics,San Antonio,Express
+Electronics,Houston,Standard
+Clothing,New York,Express
+Clothing,New York,Express
+Home Decor,Chicago,Express
+Clothing,San Diego,Standard
+Home Decor,New York,Same-Day
+Electronics,Chicago,Express
+Clothing,Houston,Standard
+Electronics,Chicago,Express
+Electronics,Houston,Standard
+Home Decor,Phoenix,Standard
+Home Decor,Chicago,Same-Day
+Home Decor,Philadelphia,Same-Day
+Clothing,Los Angeles,Same-Day
+Electronics,Phoenix,Express
+Electronics,Houston,Same-Day
+Electronics,San Diego,Same-Day
+Books,New York,Standard
+Clothing,San Antonio,Express
+Books,Los Angeles,Standard
+Books,Phoenix,Express
+Clothing,Houston,Standard
+Clothing,Philadelphia,Same-Day
+Clothing,Chicago,Standard
+Clothing,Los Angeles,Express
+Books,San Diego,Standard
+Electronics,Houston,Standard
+Books,Philadelphia,Express
+Books,Phoenix,Standard
+Books,Chicago,Same-Day
+Electronics,New York,Standard
+Home Decor,Chicago,Same-Day
+Clothing,Philadelphia,Standard
+Books,Houston,Same-Day
+Books,San Antonio,Express
+Books,Chicago,Standard
+Electronics,San Antonio,Same-Day
+Electronics,San Diego,Express
+Electronics,San Antonio,Same-Day
+Books,San Diego,Express
+Electronics,San Antonio,Standard
+Electronics,San Diego,Express
+Home Decor,Philadelphia,Standard
+Clothing,Chicago,Standard
+Home Decor,San Antonio,Standard
+Home Decor,Los Angeles,Express
+Home Decor,New York,Same-Day
+Clothing,San Antonio,Express
+Books,Chicago,Same-Day
+Home Decor,New York,Standard
+Books,Phoenix,Standard
+Clothing,San Diego,Standard
+Electronics,Philadelphia,Same-Day
+Electronics,New York,Standard
+Home Decor,Chicago,Standard
+Books,San Diego,Standard
+Clothing,Los Angeles,Same-Day
+Books,New York,Standard
+Books,New York,Same-Day
+Clothing,Houston,Standard
+Electronics,San Diego,Standard
+Electronics,Houston,Express
+Books,New York,Same-Day
+Clothing,Phoenix,Express
+Home Decor,San Antonio,Express
+Electronics,Los Angeles,Express
+Electronics,Philadelphia,Standard
+Home Decor,New York,Express
+Home Decor,Philadelphia,Same-Day
+Books,San Antonio,Standard
+Clothing,Philadelphia,Standard
+Electronics,Chicago,Same-Day
+Books,San Diego,Standard
+Home Decor,Houston,Express
+Clothing,Los Angeles,Standard
+Clothing,San Diego,Same-Day
+Electronics,Phoenix,Standard
+Electronics,Chicago,Standard
+Clothing,Chicago,Same-Day
+Clothing,Los Angeles,Same-Day
+Electronics,Philadelphia,Standard
+Home Decor,Houston,Express
+Electronics,San Antonio,Express
+Electronics,Los Angeles,Express
+Books,Philadelphia,Standard
+Electronics,Houston,Same-Day
+Clothing,Los Angeles,Same-Day
+Electronics,Philadelphia,Same-Day
+Electronics,San Diego,Standard
+Electronics,San Diego,Same-Day
+Electronics,Philadelphia,Standard
+Books,Chicago,Same-Day
+Home Decor,Philadelphia,Same-Day
+Books,Los Angeles,Standard
+Clothing,Philadelphia,Same-Day
+Books,New York,Same-Day
+Clothing,Houston,Standard
+Books,San Antonio,Express
+Electronics,New York,Standard
+Books,Phoenix,Same-Day
+Clothing,Houston,Express
+Books,Phoenix,Express
+Clothing,San Antonio,Same-Day
+Clothing,Chicago,Express
+Electronics,Philadelphia,Same-Day
+Electronics,New York,Express
+Home Decor,Houston,Express
+Electronics,San Diego,Standard
+Home Decor,Chicago,Standard
+Electronics,New York,Express
+Clothing,San Antonio,Express
+Books,Phoenix,Same-Day
+Home Decor,Houston,Express
+Clothing,Houston,Express
+Books,Los Angeles,Same-Day
+Clothing,Philadelphia,Standard
+Clothing,Phoenix,Standard
+Electronics,New York,Express
+Home Decor,San Diego,Standard
+Electronics,Los Angeles,Express
+Clothing,Philadelphia,Express
+Home Decor,New York,Standard
+Books,San Diego,Same-Day
+Books,Philadelphia,Same-Day
+Books,Chicago,Standard
+Clothing,Philadelphia,Same-Day
+Clothing,Los Angeles,Standard
+Books,Los Angeles,Express
+Books,Phoenix,Same-Day
+Electronics,Philadelphia,Same-Day
+Books,Los Angeles,Express
+Books,Philadelphia,Express
+Books,Houston,Same-Day
+Books,Los Angeles,Express
+Books,Phoenix,Express
+Books,Chicago,Standard
+Books,San Antonio,Same-Day
+Books,Phoenix,Standard
+Books,Chicago,Same-Day
+Clothing,Phoenix,Express
+Home Decor,Chicago,Same-Day
+Clothing,New York,Same-Day
+Books,Phoenix,Express
+Books,San Diego,Express
+Home Decor,Houston,Standard
+Electronics,New York,Standard
+Books,San Antonio,Same-Day
+Electronics,Philadelphia,Standard
+Books,Houston,Standard
+Books,Houston,Same-Day
+Electronics,Los Angeles,Same-Day
+Books,San Diego,Same-Day
+Clothing,Chicago,Express
+Home Decor,San Diego,Standard
+Home Decor,Chicago,Express
+Books,Chicago,Standard
+Home Decor,Los Angeles,Express
+Home Decor,Chicago,Express
+Books,Phoenix,Standard
+Books,Chicago,Express
+Clothing,Los Angeles,Same-Day
+Clothing,Philadelphia,Standard
+Home Decor,Philadelphia,Same-Day
+Books,Houston,Standard
+Books,San Diego,Standard
+Clothing,San Diego,Standard
+Clothing,Phoenix,Same-Day
+Clothing,Chicago,Express
+Clothing,Houston,Same-Day
+Books,Los Angeles,Same-Day
+Home Decor,Los Angeles,Express
+Books,New York,Express
+Home Decor,San Antonio,Same-Day
+Home Decor,Phoenix,Standard
+Home Decor,Los Angeles,Same-Day
+Home Decor,Phoenix,Same-Day
+Clothing,Houston,Standard
+Books,Houston,Standard
+Home Decor,Houston,Standard
+Electronics,Houston,Same-Day
+Books,Phoenix,Express
+Books,Philadelphia,Same-Day
+Home Decor,Los Angeles,Express
+Electronics,Houston,Standard
+Books,Los Angeles,Standard
+Books,San Antonio,Express
+Electronics,Philadelphia,Express
+Clothing,Chicago,Standard
+Home Decor,Chicago,Standard
+Electronics,New York,Same-Day
+Electronics,Chicago,Same-Day
+Home Decor,Phoenix,Same-Day
+Home Decor,Houston,Same-Day
+Home Decor,Los Angeles,Standard
+Electronics,Chicago,Express
+Home Decor,Phoenix,Standard
+Clothing,San Antonio,Same-Day
+Home Decor,Philadelphia,Express
+Clothing,Houston,Same-Day
+Clothing,New York,Standard
+Home Decor,Philadelphia,Same-Day
+Electronics,New York,Standard
+Books,San Diego,Standard
+Electronics,Chicago,Same-Day
+Books,Los Angeles,Standard
+Electronics,New York,Express
+Clothing,Phoenix,Standard
+Clothing,Chicago,Express
+Books,Chicago,Express
+Clothing,San Antonio,Standard
+Books,San Antonio,Express
+Clothing,Houston,Same-Day
+Home Decor,Chicago,Standard
+Books,Chicago,Same-Day
+Books,San Diego,Standard
+Electronics,Philadelphia,Express
+Clothing,Los Angeles,Express
+Electronics,Philadelphia,Same-Day
+Clothing,Chicago,Same-Day
+Home Decor,New York,Express
+Clothing,Phoenix,Same-Day
+Home Decor,Los Angeles,Standard
+Home Decor,Los Angeles,Express
+Books,Houston,Express
+Books,Phoenix,Standard
+Books,Philadelphia,Standard
+Electronics,Los Angeles,Express
+Books,San Diego,Express
+Books,Phoenix,Standard
+Home Decor,Phoenix,Same-Day
+Electronics,Phoenix,Standard
+Electronics,Houston,Standard
+Clothing,Los Angeles,Standard
+Electronics,Chicago,Standard
+Home Decor,Houston,Standard
+Electronics,Philadelphia,Same-Day
+Home Decor,Los Angeles,Express
+Clothing,San Antonio,Express
+Home Decor,Phoenix,Standard
+Electronics,New York,Standard
+Electronics,New York,Standard
+Clothing,San Diego,Same-Day
+Home Decor,Los Angeles,Standard
+Clothing,Phoenix,Express
+Home Decor,Philadelphia,Express
+Electronics,Phoenix,Same-Day
+Electronics,Houston,Express
+Books,Chicago,Standard
+Clothing,San Diego,Same-Day
+Electronics,Phoenix,Standard
+Clothing,San Antonio,Standard
+Books,New York,Express
+Home Decor,New York,Same-Day
+Clothing,New York,Standard
+Books,Philadelphia,Standard
+Home Decor,New York,Same-Day
+Home Decor,Houston,Same-Day
+Books,New York,Express
+Home Decor,Los Angeles,Express
+Clothing,Philadelphia,Standard
+Electronics,Chicago,Express
+Electronics,Houston,Express
+Home Decor,San Diego,Same-Day
+Home Decor,San Diego,Standard
+Clothing,New York,Standard
+Electronics,Philadelphia,Express
+Books,Phoenix,Express
+Home Decor,San Antonio,Same-Day
+Books,San Diego,Same-Day
+Clothing,New York,Standard
+Home Decor,San Diego,Standard
+Electronics,Los Angeles,Express
+Home Decor,San Diego,Express
+Home Decor,New York,Same-Day
+Books,New York,Express
+Electronics,San Antonio,Standard
+Books,Phoenix,Same-Day
+Books,San Antonio,Standard
+Electronics,Philadelphia,Express
+Home Decor,San Antonio,Express
+Home Decor,New York,Express
+Home Decor,Los Angeles,Standard
+Books,San Antonio,Express
+Electronics,Phoenix,Same-Day
+Electronics,Houston,Same-Day
+Electronics,San Antonio,Standard
+Books,New York,Standard
+Home Decor,San Diego,Same-Day
+Books,Phoenix,Standard
+Home Decor,Houston,Same-Day
+Home Decor,San Diego,Express
+Clothing,New York,Standard
+Books,San Diego,Same-Day
+Clothing,Los Angeles,Standard
+Clothing,Chicago,Express
+Home Decor,San Antonio,Express
+Electronics,San Antonio,Same-Day
+Books,Philadelphia,Same-Day
+Home Decor,Phoenix,Standard
+Clothing,San Diego,Express
+Electronics,Los Angeles,Standard
+Books,San Antonio,Same-Day
+Books,Philadelphia,Standard
+Home Decor,Los Angeles,Same-Day
+Home Decor,Phoenix,Express
+Home Decor,Philadelphia,Same-Day
+Clothing,Chicago,Express
+Clothing,Philadelphia,Express
+Clothing,New York,Express
+Books,San Antonio,Standard
+Electronics,Houston,Express
+Electronics,Chicago,Same-Day
+Clothing,San Antonio,Same-Day
+Books,Philadelphia,Standard
+Electronics,Phoenix,Same-Day
+Clothing,Philadelphia,Express
+Books,Philadelphia,Same-Day
+Electronics,Chicago,Same-Day
+Electronics,Philadelphia,Same-Day
+Clothing,Los Angeles,Express
+Home Decor,San Antonio,Express
+Books,New York,Same-Day
+Home Decor,Philadelphia,Same-Day
+Books,San Antonio,Same-Day
+Books,Chicago,Standard
+Electronics,San Antonio,Same-Day
+Clothing,Chicago,Standard
+Books,Phoenix,Same-Day
+Books,Houston,Standard
+Home Decor,San Antonio,Express
+Clothing,Chicago,Same-Day
+Home Decor,Philadelphia,Standard
+Books,San Diego,Standard
+Electronics,Philadelphia,Express
+Clothing,New York,Express
+Clothing,Phoenix,Express
+Electronics,San Diego,Same-Day
+Home Decor,San Diego,Standard
+Electronics,Los Angeles,Same-Day
+Books,San Antonio,Same-Day
+Electronics,Los Angeles,Standard
+Clothing,Phoenix,Same-Day
+Clothing,Chicago,Same-Day
+Electronics,Houston,Standard
+Electronics,Houston,Express
+Home Decor,Chicago,Standard
+Home Decor,Phoenix,Express
+Books,New York,Same-Day
+Clothing,San Diego,Express
+Clothing,Houston,Express
+Electronics,Houston,Standard
+Books,Philadelphia,Standard
+Home Decor,New York,Same-Day
+Books,Philadelphia,Express
+Books,San Diego,Standard
+Electronics,San Diego,Standard
+Clothing,Los Angeles,Express
+Home Decor,Houston,Standard
+Clothing,New York,Standard
+Clothing,San Diego,Express
+Home Decor,Los Angeles,Standard
+Electronics,Chicago,Standard
+Clothing,San Diego,Standard
+Electronics,Chicago,Express
+Home Decor,Los Angeles,Express
+Electronics,Chicago,Express
+Home Decor,San Diego,Standard
+Books,Philadelphia,Standard
+Clothing,San Diego,Standard
+Clothing,Los Angeles,Express
+Home Decor,Houston,Express
+Home Decor,Philadelphia,Standard
+Books,Houston,Express
+Electronics,San Antonio,Express
+Books,New York,Standard
+Clothing,New York,Same-Day
+Clothing,San Diego,Same-Day
+Electronics,New York,Express
+Clothing,San Diego,Standard
+Home Decor,Phoenix,Same-Day
+Electronics,Houston,Express
+Books,Philadelphia,Express
+Books,Chicago,Express
+Home Decor,New York,Express
+Home Decor,Houston,Same-Day
+Home Decor,Philadelphia,Express
+Books,Philadelphia,Standard
+Clothing,Chicago,Express
+Books,Los Angeles,Same-Day
+Electronics,Philadelphia,Same-Day
+Clothing,San Diego,Same-Day
+Home Decor,Chicago,Standard
+Home Decor,Houston,Same-Day
+Clothing,Houston,Same-Day
+Home Decor,Philadelphia,Standard
+Books,San Diego,Standard
+Home Decor,Phoenix,Standard
+Electronics,Phoenix,Express
+Home Decor,Phoenix,Express
+Books,New York,Same-Day
+Home Decor,New York,Same-Day
+Electronics,Chicago,Same-Day
+Books,New York,Same-Day
+Home Decor,San Antonio,Express
+Clothing,Houston,Express
+Clothing,San Antonio,Same-Day
+Books,San Antonio,Express
+Electronics,Houston,Same-Day
+Books,San Antonio,Express
+Clothing,Philadelphia,Standard
+Electronics,San Antonio,Express
+Clothing,San Diego,Standard
+Clothing,Houston,Standard
+Electronics,Houston,Express
+Books,Phoenix,Same-Day
+Books,Houston,Same-Day
+Books,San Diego,Same-Day
+Books,San Antonio,Express
+Home Decor,Chicago,Same-Day
+Electronics,Phoenix,Express
+Books,San Diego,Express
+Electronics,Houston,Standard
+Electronics,Houston,Express
+Home Decor,Los Angeles,Standard
+Clothing,Chicago,Same-Day
+Books,Phoenix,Express
+Electronics,Phoenix,Express
+Books,San Antonio,Express
+Books,Los Angeles,Same-Day
+Books,Philadelphia,Express
+Electronics,San Diego,Express
+Home Decor,Los Angeles,Standard
+Books,San Diego,Standard
+Electronics,Phoenix,Same-Day
+Home Decor,New York,Standard
+Clothing,Los Angeles,Express
+Home Decor,New York,Express
+Clothing,Houston,Express
+Electronics,Philadelphia,Express
+Home Decor,San Antonio,Same-Day
+Books,Houston,Standard
+Clothing,Los Angeles,Standard
+Electronics,Los Angeles,Standard
+Home Decor,San Antonio,Same-Day
+Electronics,San Antonio,Express
+Home Decor,Phoenix,Standard
+Books,Chicago,Standard
+Books,Los Angeles,Standard
+Home Decor,Phoenix,Same-Day
+Books,Phoenix,Express
+Clothing,Chicago,Same-Day
+Electronics,Los Angeles,Same-Day
+Clothing,Los Angeles,Express
+Books,San Antonio,Same-Day
+Clothing,Los Angeles,Same-Day
+Home Decor,Houston,Express
+Books,Houston,Same-Day
+Electronics,Chicago,Standard
+Home Decor,Philadelphia,Same-Day
+Home Decor,Philadelphia,Standard
+Electronics,Philadelphia,Express
+Home Decor,San Antonio,Express
+Clothing,Chicago,Standard
+Home Decor,San Antonio,Express
+Electronics,San Antonio,Standard
